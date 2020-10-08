@@ -7,7 +7,7 @@ Hi, I'm Thuan Huynh, a passionate self-taught frontEnd web developer from Ho Chi
 
 - 🔭 I’m currently working on my project [Deliveree](https://webapp.deliveree.com)
 - 🌱 I’m currently learning GraphQL & Typescript and also Flutteer
-- 👯 I’m looking to collaborate on [≈](https://github.com/ducthuan-2712)
+- 👯 I’m looking to collaborate on [Github](https://github.com/ducthuan-2712)
 - 💬 Ask me about anything [here](https://github.com/ducthuan-2712/issues)
 
 **Languages and Tools:**  
